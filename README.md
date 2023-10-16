@@ -1,10 +1,10 @@
 👋 Hi, I’m @SofiaTruta
- 🌱 I’m currently learning JavaScript and Web Developement. 
- I’m interested in music, rock climbing and videogames!
+ 🌱 I’m currently enrolled with General Assembly's Software Engineering bootcamp. 
 
-I’d be keen to collaborate on projects that are looking for someone eager to learn and to get things working!
-
-📫 The best way to reach me is via LinkedIn - https://www.linkedin.com/in/sofiatruta/
+Technologies I am familiar with: HTML, CSS, JavaScript, Node.js, Vue.js, Express.js, MongoDB, Vuetify. 
+I have also used Slack, Zoom, Microsoft Teams, Trello, Lucid Chart.
+ 
+ I’m also interested in music, rock climbing and videogames!
 
 <!---
 SofiaTruta/SofiaTruta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
