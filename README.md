@@ -1,11 +1,23 @@
-👋 Hi, I’m @SofiaTruta
- 🌱 I’m currently enrolled with General Assembly's Software Engineering bootcamp. 
+👋 Hi, I’m Sofia!
 
-Technologies I am familiar with: HTML, CSS, JavaScript, Node.js, Vue.js, React, Next.js, Express.js, MongoDB. 
-I have also used Slack, Zoom, Microsoft Teams, Trello, Lucid Chart, Tailwind, Vuetify, Flowbite.
+I am a Junior Web Developer.
+I have recently completed General Assembly's Software Engineering Immersive Bootcamp and I am super keen on continuing to learn!
+
+Technologies I am familiar with:
+JavaScript, HTML, CSS
+React, Next.js
+Vue.js
+Express
+
+Python
+Django
+
+MongoDb and PostgreSQL. 
+
+I love exploring component libraries and playing around with styling!
  
- I’m also interested in music, rock climbing and videogames!
-
+ When I'm not coding you can find me at my local rock climbing gym, playing bass or playing videogames (retro games -GB and GB advance forever-  or retro inspired games like Stardew Valley)!
+Before web development I worked for 10 years in healthcare as a Nurse.
 <!---
 SofiaTruta/SofiaTruta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
