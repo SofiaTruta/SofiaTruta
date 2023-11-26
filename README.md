@@ -14,7 +14,7 @@ Technologies I am familiar with:
 - MongoDb and PostgreSQL.
 - Node.js, Git
 
-I love exploring component libraries and playing around with styling!
+I love exploring component libraries and playing around with styling.
  
  When I'm not coding you can find me at my local rock climbing gym, playing bass or playing videogames!
 
