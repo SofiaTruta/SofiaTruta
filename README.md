@@ -1,6 +1,6 @@
 👋 Hi, I’m Sofia!
 
-I am a Junior Web Developer.
+I am a Junior Full Stack Software Developer.
 I have recently completed General Assembly's Software Engineering Immersive Bootcamp and I am super keen on continuing to learn!
 
 Technologies I am familiar with:
